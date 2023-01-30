@@ -3,10 +3,10 @@
 Mapping 어노테이션
 
 @GetMapping <br/>
-@PostMapping &nbsp;
-@PutMapping &nbsp;
-@DeleteMapping &nbsp;
-@PatchMapping &nbsp;
+@PostMapping <br/>
+@PutMapping <br/>
+@DeleteMapping <br/>
+@PatchMapping <br/>
 
 
 - PathVariable 다중 사용법

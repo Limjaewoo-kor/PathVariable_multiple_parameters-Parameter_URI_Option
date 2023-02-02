@@ -1,6 +1,6 @@
 # studySpringMvc
 
-Mapping 어노테이션
+## Mapping 어노테이션
 
 @GetMapping <br/>
 @PostMapping <br/>
